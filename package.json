@@ -1,0 +1,19 @@
+{
+  "name": "node-express-mongo",
+  "version": "1.0.0",
+  "description": "Project created using NodeJS,eJS,Express&amp;MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriniinfo/nodeExpressMongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriniinfo/nodeExpressMongo/issues"
+  },
+  "homepage": "https://github.com/sriniinfo/nodeExpressMongo#readme"
+}
